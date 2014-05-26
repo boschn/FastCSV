@@ -1283,8 +1283,9 @@ namespace LumenWorks.Framework.IO.Csv
 								}
 							}
 
+                            // Boris Schneider Ontrack : keep it on nothing !
 							if (value == null)
-								value = string.Empty;
+								value = null; // instead of STRING.EMPTY
 						}
 
 						if (_eol || _eof)

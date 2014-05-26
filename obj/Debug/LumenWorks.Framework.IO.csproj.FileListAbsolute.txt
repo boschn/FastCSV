@@ -1,0 +1,7 @@
+C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\bin\Debug\LumenWorks.Framework.IO.dll
+C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\obj\Debug\LumenWorks.Framework.IO.csprojResolveAssemblyReference.cache
+C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\obj\Debug\LumenWorks.Framework.IO.Csv.Resources.ExceptionMessage.resources
+C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\obj\Debug\LumenWorks.Framework.IO.csproj.GenerateResource.Cache
+C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\obj\Debug\LumenWorks.Framework.IO.dll
+C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\obj\Debug\LumenWorks.Framework.IO.pdb
