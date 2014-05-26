@@ -1283,9 +1283,9 @@ namespace LumenWorks.Framework.IO.Csv
 								}
 							}
 
-                            // Boris Schneider Ontrack : keep it on nothing !
-							if (value == null)
-								value = null; // instead of STRING.EMPTY
+                            // Boris Schneider Ontrack : keep it on nothing ! 
+							if (value == null) 
+								value = null; // instead of STRING.EMPTY 
 						}
 
 						if (_eol || _eof)
