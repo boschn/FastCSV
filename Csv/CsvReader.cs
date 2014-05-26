@@ -1290,7 +1290,7 @@ namespace LumenWorks.Framework.IO.Csv
 
 						if (_eol || _eof)
 						{
-							_eol = ParseNewLine(ref _nextFieldStart);
+							_eol = ParseNewLine(ref _nextFieldStart); 
 
 							// Reaching a new line is ok as long as the parser is initializing or it is the last field
 							if (!initializing && index != _fieldCount - 1)
