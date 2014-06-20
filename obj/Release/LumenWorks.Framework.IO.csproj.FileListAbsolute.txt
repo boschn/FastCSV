@@ -1,10 +1,8 @@
 C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\bin\Release\LumenWorks.Framework.IO.XML
 C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\bin\Release\LumenWorks.Framework.IO.dll
 C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\bin\Release\LumenWorks.Framework.IO.pdb
-C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\bin\Release\LumenWorks.Framework.IO.dll.CodeAnalysisLog.xml
-C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\bin\Release\LumenWorks.Framework.IO.dll.lastcodeanalysissucceeded
-C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\obj\Release\LumenWorks.Framework.IO.csprojResolveAssemblyReference.cache
 C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\obj\Release\LumenWorks.Framework.IO.Csv.Resources.ExceptionMessage.resources
 C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\obj\Release\LumenWorks.Framework.IO.csproj.GenerateResource.Cache
 C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\obj\Release\LumenWorks.Framework.IO.dll
 C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\obj\Release\LumenWorks.Framework.IO.pdb
+C:\vol\projekte\OnTrack\OnTrack4XLS Workspace\OnTrack4XLS\otdbbackend\FastCSV\obj\Release\LumenWorks.Framework.IO.csprojResolveAssemblyReference.cache
